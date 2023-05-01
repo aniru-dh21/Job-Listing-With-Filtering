@@ -60,3 +60,6 @@ function createCardElement({ elementType, container, properties, attributes }) {
 
 - The spread operator.
 
+```js
+cardElement.setAttribute("data-labels", [job.role, job.level, ...job.languages, ...job.tools]);
+```
