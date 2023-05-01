@@ -50,3 +50,5 @@ In regards to the project and tasks organization for this challenge, I found use
 
 In the technical stuff, I learned how to apply:
 
+- Named parameters in functions using object literals.
+
