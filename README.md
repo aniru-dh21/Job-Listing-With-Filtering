@@ -104,3 +104,76 @@ Data Taken for Listings
       "tools": []
     }
 ```
+
+Function To Display Job Listings
+```js
+function createJobDetailsSection({ 
+    companyName, 
+    newBadge, 
+    featuredBadge, 
+    position, 
+    postedAt, 
+    contract, 
+    location 
+    }) {
+    const jobDetailsContainer = document.createElement("div");
+    jobDetailsContainer.classList.add("details__container") 
+
+    createCardElement({
+        elementType: "p",
+        container: jobDetailsContainer,
+        attributes: { class: "company__name"},
+        properties: { innerText: companyName }
+    });
+
+    const badges = createBadge(newBadge, featuredBadge);
+    badges.forEach(badge => {
+        jobDetailsContainer.appendChild(badge)
+    });
+
+    createCardElement({
+        elementType: "h3",
+        container: jobDetailsContainer,
+        attributes: { class: "job__position"},
+        properties: { innerText: position }
+    });
+
+    createCardElement({
+        elementType: "p",
+        container: jobDetailsContainer,
+        attributes: { class: "post__details"},
+        properties: { innerText: postedAt }
+    });
+
+    createCardElement({
+        elementType: "p",
+        container: jobDetailsContainer,
+        attributes: { class: "post__details"},
+        properties: { innerText: "•" }
+    });
+
+    createCardElement({
+        elementType: "p",
+        container: jobDetailsContainer,
+        attributes: { class: "post__details"},
+        properties: { innerText: contract }
+    });
+
+    createCardElement({
+        elementType: "p",
+        container: jobDetailsContainer,
+        properties: { innerText: "•" },
+        attributes: { class: "post__details"},
+    });
+
+    createCardElement({
+        elementType: "p",
+        container: jobDetailsContainer,
+        attributes: { class: "post__details"},
+        properties: { innerText: location }
+    });
+
+    return jobDetailsContainer;
+}
+```
+
