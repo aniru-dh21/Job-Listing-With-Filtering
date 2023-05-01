@@ -179,3 +179,4 @@ function createJobDetailsSection({
 
 ## Author
 
+- Frontend Mentor - [@aniru-dh21](https://www.frontendmentor.io/profile/aniru-dh21)
