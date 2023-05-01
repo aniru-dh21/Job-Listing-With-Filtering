@@ -63,3 +63,6 @@ function createCardElement({ elementType, container, properties, attributes }) {
 ```js
 cardElement.setAttribute("data-labels", [job.role, job.level, ...job.languages, ...job.tools]);
 ```
+ - Working on a mobile-first approach taking the best of Flexbox and CSS Grid.
+ 
+ 
