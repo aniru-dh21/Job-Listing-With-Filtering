@@ -79,3 +79,6 @@ cardElement.setAttribute("data-labels", [job.role, job.level, ...job.languages, 
     grid-template-columns: 1fr 2fr 1fr;
 }
 ```
+- A more functional way to write JavaScript.
+
+-
