@@ -19,3 +19,5 @@ This is a solution to the [Job Listings with Filtering Challenge on Frontend Men
 ### The Challenge
 
 Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
