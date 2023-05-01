@@ -180,3 +180,4 @@ function createJobDetailsSection({
 ## Author
 
 - Frontend Mentor - [@aniru-dh21](https://www.frontendmentor.io/profile/aniru-dh21)
+- [LinkedIn](https://www.linkedin.com/in/ramachandra-anirudh-vemulapalli-554b551ba/)
