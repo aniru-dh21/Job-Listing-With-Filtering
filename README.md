@@ -8,3 +8,7 @@ This is a solution to the [Job Listings with Filtering Challenge on Frontend Men
   - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Code Snippet](#code-snippet)
