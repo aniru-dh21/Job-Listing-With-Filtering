@@ -44,3 +44,4 @@ Desktop View
 - Mobile-First Workflow
 - Vanilla Javascript
 
+### What I Learned
