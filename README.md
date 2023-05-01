@@ -177,3 +177,5 @@ function createJobDetailsSection({
 }
 ```
 
+## Author
+
