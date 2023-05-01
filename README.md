@@ -26,3 +26,5 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop View
+![Desktop View](./preview.png)
