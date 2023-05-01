@@ -52,3 +52,9 @@ In the technical stuff, I learned how to apply:
 
 - Named parameters in functions using object literals.
 
+```js
+function createCardElement({ elementType, container, properties, attributes }) {
+  //..
+}
+```
+
