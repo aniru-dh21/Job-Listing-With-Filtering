@@ -42,3 +42,5 @@ Desktop View
 - Flexbox
 - CSS Grid
 - Mobile-First Workflow
+- Vanilla Javascript
+
