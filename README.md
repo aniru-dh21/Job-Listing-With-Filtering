@@ -48,3 +48,5 @@ Desktop View
 
 In regards to the project and tasks organization for this challenge, I found useful to break down the challenge into smaller pieces of work, and to make commits for small chunks of code helped me to track better the progress.
 
+In the technical stuff, I learned how to apply:
+
