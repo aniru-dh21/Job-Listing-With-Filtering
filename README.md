@@ -39,3 +39,4 @@ Desktop View
 ### Built With
 
 - Semantic HTML5 Markup
+- Flexbox
