@@ -41,3 +41,4 @@ Desktop View
 - Semantic HTML5 Markup
 - Flexbox
 - CSS Grid
+- Mobile-First Workflow
