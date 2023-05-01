@@ -81,4 +81,5 @@ cardElement.setAttribute("data-labels", [job.role, job.level, ...job.languages, 
 ```
 - A more functional way to write JavaScript.
 
--
+- I also practiced a lot of how to manipulate the DOM (create elements, add classes, set/get attributes, and so on). 
+
