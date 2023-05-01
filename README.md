@@ -65,4 +65,17 @@ cardElement.setAttribute("data-labels", [job.role, job.level, ...job.languages, 
 ```
  - Working on a mobile-first approach taking the best of Flexbox and CSS Grid.
  
- 
+ ```css
+/* card element in smaller viewports */
+.card {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+/* card element in medium viewports*/
+.card {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+```
