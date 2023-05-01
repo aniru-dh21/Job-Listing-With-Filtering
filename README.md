@@ -58,3 +58,5 @@ function createCardElement({ elementType, container, properties, attributes }) {
 }
 ```
 
+- The spread operator.
+
