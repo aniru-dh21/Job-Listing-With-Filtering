@@ -12,3 +12,5 @@ This is a solution to the [Job Listings with Filtering Challenge on Frontend Men
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
   - [Code Snippet](#code-snippet)
+- [Author](#author)
+
